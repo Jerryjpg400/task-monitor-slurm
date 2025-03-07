@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: tasks_monitor_bot
+Version: 0.1.0
+Summary: A simple tasks monitor bot using Telegram
+Author-email: Carl Li <jiaying.liac@gmail.com>
+Keywords: telegram-bot,task-monitor,bot,tasks
+Classifier: Programming Language :: Python
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: python-telegram-bot>=21.2
+
+# task-monitor-slurm

@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+monitor-slurm/__init__.py
+monitor-slurm/cli.py
+monitor-slurm/config.py
+monitor-slurm/slurm_monitor.py
+monitor-slurm/telegram_notify.py
+monitor_slurm.egg-info/PKG-INFO
+monitor_slurm.egg-info/SOURCES.txt
+monitor_slurm.egg-info/dependency_links.txt
+monitor_slurm.egg-info/entry_points.txt
+monitor_slurm.egg-info/requires.txt
+monitor_slurm.egg-info/top_level.txt

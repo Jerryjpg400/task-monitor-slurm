@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: monitor-slurm
+Version: 0.1.0
+Summary: Monitor SLURM jobs and receive notifications via Telegram.
+Author-email: Carl Li <jiaying.liac@gmail.com>
+Keywords: telegram-bot,task-monitor,bot,tasks,SLURM
+Classifier: Programming Language :: Python
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: python-telegram-bot>=21.2
+Requires-Dist: python-dotenv>=0.15.0
+
+# task-monitor-slurm

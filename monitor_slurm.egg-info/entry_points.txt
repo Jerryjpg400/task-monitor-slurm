@@ -1,0 +1,2 @@
+[console_scripts]
+monitor-slurm = monitor_slurm.cli:main
